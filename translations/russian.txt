@@ -19,9 +19,9 @@ EXPORTING                                     = "Экспорт медиафай
 INSTALLING                                    = "Установка..."
 DOWNLOADING                                   = "Загрузка..."
 EXTRACTING                                    = "Извлечение..."
-COMPRESSING                                   = "Архивирование..."
-HASHING                                       = "Хеширование..."
-REFRESHING                                    = "Обновление livearea..."
+COMPRESSING                                   = "Упаковка..."
+HASHING                                       = "Вычисление хеша..."
+REFRESHING                                    = "Обновление данных LiveArea..."
 
 # Audio player strings
 TITLE                                         = "Название"
@@ -32,18 +32,18 @@ YEAR                                          = "Год"
 
 # Hex editor strings
 OFFSET                                        = "Смещение:"
-OPEN_HEX_EDITOR                               = "Открыть в Hex редакторе"
+OPEN_HEX_EDITOR                               = "Открыть в Hex-редакторе"
 
 # Text editor strings
 EDIT_LINE                                     = "Редактировать строку"
 ENTER_SEARCH_TERM                             = "Поиск..."
 
 # Context menu strings
-REFRESH_LIVEAREA                              = "Обновить экран livearea"
+REFRESH_LIVEAREA                              = "Обновить экран LiveArea"
 MOUNT_UMA0                                    = "Монтировать uma0:"
 MOUNT_IMC0                                    = "Монтировать imc0:"
-MOUNT_USB_UX0                                 = "Монтировать USB в ux0:"
-UMOUNT_USB_UX0                                = "Размонтировать USB с ux0:"
+MOUNT_USB_UX0                                 = "Монтировать USB как ux0:"
+UMOUNT_USB_UX0                                = "Размонтировать USB от ux0:"
 SORT_BY                                       = "Сортировка"
 BY_NAME                                       = "По имени"
 BY_SIZE                                       = "По размеру"
@@ -86,9 +86,9 @@ PROPERTY_TYPE_OGG                             = "Аудиофайл OGG"
 PROPERTY_TYPE_PNG                             = "Изображение PNG"
 PROPERTY_TYPE_RAR                             = "Архив RAR"
 PROPERTY_TYPE_SFO                             = "Файл SFO"
-PROPERTY_TYPE_TXT                             = "Текстовый документ"
+PROPERTY_TYPE_TXT                             = "Документ TXT"
 PROPERTY_TYPE_VPK                             = "Пакет VPK"
-PROPERTY_TYPE_XML                             = "Файл XML"
+PROPERTY_TYPE_XML                             = "Документ XML"
 PROPERTY_TYPE_ZIP                             = "Архив ZIP"
 PROPERTY_TYPE_FSELF                           = "Файл FSELF"
 PROPERTY_FSELF_MODE_SAFE                      = "Безопасный"
